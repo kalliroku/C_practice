@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "test.h"
 
 int DtoB(void) {
 	int n, i;
